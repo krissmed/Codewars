@@ -3,4 +3,4 @@
 
 Archive of [codewars](https://www.codewars.com) exercises
 
-# List of excersies
+# List of exercises
