@@ -1,2 +1,2 @@
 # Codewars
-Archive of [codewars](www.codewars.com) exercises
+Archive of [codewars](https://www.codewars.com) exercises
