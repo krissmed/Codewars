@@ -1,5 +1,5 @@
 # Codewars
-![](https://www.codewars.com/users/krissmed/badges/large?logo=false)
+<a href="https://www.codewars.com/users/krissmed"><img src="https://www.codewars.com/users/krissmed/badges/large?logo=false"></img></a>
 
 Archive of [codewars](https://www.codewars.com) exercises
 
