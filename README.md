@@ -4,3 +4,7 @@
 Archive of [codewars](https://www.codewars.com) exercises
 
 # List of exercises
+### Javascript
+### Powershell
+### Python
+### Rust
